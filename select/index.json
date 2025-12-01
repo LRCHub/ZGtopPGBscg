@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "WHITE NIGHT",
+  "base_artist": "Jake Miller、HOYO-MiX",
+  "createdAt": "2025-12-01T03:24:45.513635Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pride Of The White Star Line",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Pride_Of_The_White_Star_Line_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "White Wedding - Pt. 1",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/02_White_Wedding_-_Pt._1_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A White Sport Coat (& a Pink Carnation)",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/03_A_White_Sport_Coat_(&_a_Pink_Carnation)_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A White Sport Coat (And a Pink Carnation) (Album Version)",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/04_A_White_Sport_Coat_(And_a_Pink_Carnation)_(Album_Version)_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Courtesy Of The Red, White And Blue (The Angry American)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/05_Courtesy_Of_The_Red,_White_And_Blue_(The_Angry_American)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Courtesy Of The Red, White And Blue (The Angry American) (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/06_Courtesy_Of_The_Red,_White_And_Blue_(The_Angry_American)_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Courtesy Of The Red, White And Blue (The Angry American) (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/07_Courtesy_Of_The_Red,_White_And_Blue_(The_Angry_American)_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm A White Boy",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/08_I'm_A_White_Boy_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Little White Church",
+      "artist": "Little Big Town",
+      "has_synced": true,
+      "path": "select/09_Little_White_Church_Little_Big_Town.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Long White Cadillac - 2006 Remastered Version",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/10_Long_White_Cadillac_-_2006_Remastered_Version_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Long White Cadillac (2006 Remastered LP Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/11_Long_White_Cadillac_(2006_Remastered_LP_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Long White Line",
+      "artist": "Sturgill Simpson",
+      "has_synced": true,
+      "path": "select/12_Long_White_Line_Sturgill_Simpson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Red Lips, Blue Eyes, Little White Lies",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/13_Red_Lips,_Blue_Eyes,_Little_White_Lies_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Red Lips, Blue Eyes, Little White Lies (Album Version)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/14_Red_Lips,_Blue_Eyes,_Little_White_Lies_(Album_Version)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "\"Rednecks, White Socks And Blue Ribbon Beer\"",
+      "artist": "Johnny Russell",
+      "has_synced": false,
+      "path": "select/15_Rednecks,_White_Socks_And_Blue_Ribbon_Beer_Johnny_Russell.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Red White Blue Jean American Dream",
+      "artist": "Kip Moore",
+      "has_synced": true,
+      "path": "select/16_Red_White_Blue_Jean_American_Dream_Kip_Moore.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Red, White & Boozed",
+      "artist": "Moonshine Bandits feat. Colt Ford",
+      "has_synced": true,
+      "path": "select/17_Red,_White_&_Boozed_Moonshine_Bandits_feat._Colt_Ford.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Red, White & Boozed",
+      "artist": "Moonshine Bandits",
+      "has_synced": false,
+      "path": "select/18_Red,_White_&_Boozed_Moonshine_Bandits.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Shores of White Sand",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/19_Shores_of_White_Sand_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Single White Female",
+      "artist": "Chely Wright",
+      "has_synced": true,
+      "path": "select/20_Single_White_Female_Chely_Wright.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WHITE DAYS",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_01_WHITE_DAYS_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "White Light",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_02_White_Light_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "WHITE LOVE",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_03_WHITE_LOVE_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "WHITE",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_04_WHITE_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "WHITE WORLD",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_05_WHITE_WORLD_コブクロ.txt"
+    }
+  ]
+}
